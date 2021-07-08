@@ -165,3 +165,14 @@ transition:all 0.3s ease-in-out;
 }
 
 
+
+
+@media screen and (max-width:400px){
+    .container{
+        max-width: 280px;
+        height: 180px;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    
+
