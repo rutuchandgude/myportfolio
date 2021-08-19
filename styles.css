@@ -93,6 +93,15 @@ padding:0rem 0.5rem;
     font-weight: bold;
 }
 
+
+.navigation{
+      display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
 /* .navigation .list-item-inline .link{
     text-align: center;
 } */
