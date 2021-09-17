@@ -120,25 +120,6 @@ padding:0rem 0.5rem;
     color:var(--primary--color);
 }
 
-
-
-
-
-@media only screen and(max-width:367px)
-{
-    .balls{
-      
-        width: 4px!important;
-        height: 4px!important;
-        
-      }
-      .hero{position:fixed;}
-}
-
-
-
-
-
  /**selection**/
 
  .section{
